@@ -77,7 +77,7 @@ async def check_user_subscription(user_id: int) -> bool:
         c1_joined = m1.status in ["member", "creator", "administrator"]
 
         # চ্যানেল ২ ভেরিফিকেশন
-        m2 = await bot.get_chat_member(chat_id=CHANNEL_2_USERNAME, user_id=user_id)
+        m2 = await bot.get_chat_member(chat_id=CHANNEL_2_ID, user_id=user_id)
         c2_joined = m2.status in ["member", "creator", "administrator"]
 
         return c1_joined and c2_joined
