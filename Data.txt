@@ -1,0 +1,164 @@
+{
+    "6127551841": {
+        "facebook": "https://www.facebook.com/yourprofile",
+        "balance": 2210.0,
+        "withdrawn": 2310.0,
+        "admin_added_bal": 0.0,
+        "bkash": "018704431255",
+        "nagad": null,
+        "binance": null,
+        "screenshots": [
+            "AgACAgUAAxkBAAICamrNNWAXZJvmEoBJexBP7otexNgoAAKUE2sbgttoVlyp-99eh0fJAQADAgADeAADPQQ",
+            "AgACAgUAAxkBAAICaWrNNWDuo0aaoszJRwfAS8LGcuE-AAKVE2sbgttoVhzLIJp1KPRtAQADAgADeAADPQQ"
+        ],
+        "referred_by": null,
+        "referrals_count": 904,
+        "is_approved": true,
+        "is_banned": false,
+        "name": "TK-12 索基查",
+        "username": "TK_Dollar",
+        "waiting_for": null,
+        "temp_method": "bkash"
+    },
+    "7036052505": {
+        "facebook": "https://www.facebook.com/yourprofile1",
+        "balance": 32.0,
+        "withdrawn": 30.0,
+        "admin_added_bal": 0.0,
+        "bkash": null,
+        "nagad": "01623468721",
+        "binance": null,
+        "screenshots": [
+            "AgACAgUAAxkBAAICfmrNNiDGiCpelcPo6YwTk1vcIsTQAAIeFGsbTQ1pVnftMTuGheGYAQADAgADeAADPQQ",
+            "AgACAgUAAxkBAAICfWrNNiCPcH2ya5paRMUrB8CostpAAAIdFGsbTQ1pVvPmQBSIUH1QAQADAgADeQADPQQ",
+            "AgACAgUAAyEFAATdGImwAANaas6JBWhyrqAbUXo_SFSPLo57wQUAArIQaxufXnlWht_ff1zPMIIBAAMCAAN4AAM9BA"
+        ],
+        "referred_by": null,
+        "referrals_count": 5,
+        "is_approved": true,
+        "is_banned": false,
+        "name": "WJ-12 萨吉德",
+        "username": "sajid4058",
+        "waiting_for": "amount_nagad",
+        "temp_method": "nagad"
+    },
+    "8230191240": {
+        "facebook": "https://www.facebook.com/yourprofile2",
+        "balance": 0.0,
+        "withdrawn": 0.0,
+        "admin_added_bal": 0.0,
+        "bkash": null,
+        "nagad": null,
+        "binance": null,
+        "screenshots": [
+            "AgACAgUAAyEFAATdGImwAANCas1YizMJF9mAtyMk4aXz6NhZTbsAAmIUaxsyuWhWFh_yjjErxwABAQADAgADeQADPQQ",
+            "AgACAgUAAxkBAAIC_GrOhq6YtlKCSvelS0EUKcrVzdf7AAJVEmsb4vB4Vsg2aDR3ak6WAQADAgADeQADPQQ"
+        ],
+        "referred_by": null,
+        "referrals_count": 0,
+        "is_approved": true,
+        "is_banned": false,
+        "name": "M_ Xiad",
+        "username": "iam_xiad",
+        "waiting_for": null
+    },
+    "8798494739": {
+        "facebook": null,
+        "balance": 0.0,
+        "withdrawn": 0.0,
+        "admin_added_bal": 0.0,
+        "bkash": null,
+        "nagad": null,
+        "binance": null,
+        "screenshots": [],
+        "referred_by": null,
+        "referrals_count": 0,
+        "is_approved": false,
+        "is_banned": false,
+        "name": "Task & Earn BD",
+        "username": "TaskAndEarn_BDBot",
+        "waiting_for": null
+    },
+    "7263043828": {
+        "facebook": "https://www.facebook.com/share/1CM27pDQ8E/",
+        "balance": 0.0,
+        "withdrawn": 0.0,
+        "admin_added_bal": 0.0,
+        "bkash": null,
+        "nagad": null,
+        "binance": null,
+        "screenshots": [
+            "AgACAgUAAxkBAAIDGWrOh6UldTy8dAF1vG-Dm-0tXr0iAAJ3EGsbjkd5Viw2wEq-HpI-AQADAgADeQADPQQ",
+            "AgACAgUAAxkBAAIDGmrOh6Xv8yZh4E87xpcjw6IFJ3Z6AAJ4EGsbjkd5VmVl65-doLpPAQADAgADeQADPQQ"
+        ],
+        "referred_by": null,
+        "referrals_count": 0,
+        "is_approved": false,
+        "is_banned": false,
+        "name": "Istiak Shawon",
+        "username": "NoUsername",
+        "waiting_for": null
+    },
+    "8815573975": {
+        "facebook": "https://www.facebook.com/profile.php?id=61594802054566",
+        "balance": 0.0,
+        "withdrawn": 0.0,
+        "admin_added_bal": 0.0,
+        "bkash": null,
+        "nagad": null,
+        "binance": null,
+        "screenshots": [
+            "AgACAgUAAxkBAAIDKmrOiB43Frkru30I20TjhM452iAHAALdEGsbtwABeVapLYOQRNBcDQEAAwIAA3kAAz0E",
+            "AgACAgUAAxkBAAIDK2rOiB7TisX2zU-z_nP93qZarKeaAALeEGsbtwABeVZOBu3fSTME8wEAAwIAA3kAAz0E"
+        ],
+        "referred_by": null,
+        "referrals_count": 0,
+        "is_approved": true,
+        "is_banned": false,
+        "name": "Lamia",
+        "username": "NoUsername",
+        "waiting_for": null
+    },
+    "1219143822": {
+        "facebook": "https://www.facebook.com/ayan.ahmed.001001",
+        "balance": 0.0,
+        "withdrawn": 0.0,
+        "admin_added_bal": 0.0,
+        "bkash": null,
+        "nagad": null,
+        "binance": null,
+        "screenshots": [
+            "AgACAgUAAxkBAAIDI2rOh_HIv30jUUMa9r3OOzyqGZ2EAAIXEmsbggR5VnyIdkAqUHF4AQADAgADeQADPQQ",
+            "AgACAgUAAxkBAAIDJGrOh_Wsm6k0EXkFrY32pRJ1Z-txAAIYEmsbggR5Vl3swnkBVnwOAQADAgADeQADPQQ"
+        ],
+        "referred_by": null,
+        "referrals_count": 0,
+        "is_approved": true,
+        "is_banned": false,
+        "name": "Arhamm",
+        "username": "arhamm_112233",
+        "waiting_for": null
+    },
+    "8137681177": {
+        "facebook": "https://www.facebook.com/Namimuddinkhan",
+        "balance": 0.0,
+        "withdrawn": 0.0,
+        "admin_added_bal": 0.0,
+        "bkash": null,
+        "nagad": null,
+        "binance": null,
+        "screenshots": [
+            "AgACAgUAAxkBAAIDQWrOihrA3zUrYEYaSuz4IF6n4f37AALiEGsb-fx5Vi6Sxs-cQP2aAQADAgADeQADPQQ",
+            "AgACAgUAAxkBAAIDQ2rOijhbCmOLnx4r_zIOHhRk2WFdAALkEGsb-fx5Vr0MZo0AAfqC7gEAAwIAA3kAAz0E",
+            "AgACAgUAAxkBAAIDQWrOihrA3zUrYEYaSuz4IF6n4f37AALiEGsb-fx5Vi6Sxs-cQP2aAQADAgADeQADPQQ"
+        ],
+        "referred_by": null,
+        "referrals_count": 0,
+        "is_approved": true,
+        "is_banned": false,
+        "name": "Istiak Boss",
+        "username": "NoUsername",
+        "waiting_for": "bind_bkash",
+        "temp_method": "bkash"
+    }
+}
