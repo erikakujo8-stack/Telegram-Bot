@@ -18,11 +18,12 @@ users_collection = db["users"]
 API_TOKEN = '8798494739:AAHylK8iD8jRnD-HNirC3lUB6CaAJVpgb58'
 ADMIN_CHAT_ID = -1003709372848
 
-# 📢 চ্যানেল ১
+# 📢 Channel 1
 CHANNEL_1_ID = -1003997407290
 CHANNEL_1_LINK = "https://t.me/Taskk_Earn"
 
-# 📢 চ্যানেল ২
+# 📢 Channel 2
+CHANNEL_2_ID = -1003976483590
 CHANNEL_2_LINK = "https://t.me/aielevate_27"
 
 bot = Bot(token=API_TOKEN)
