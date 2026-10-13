@@ -15,7 +15,7 @@ client = MongoClient(MONGO_URI)
 db = client["botRun"]
 users_collection = db["users"]
 
-API_TOKEN = '8798494739:AAhyLk8iD8jRnD-HNirC31UB6CaAJVpgb58'
+API_TOKEN = '8798494739:AAHylK8iD8jRnD-HNirC3lUB6CaAJVpgb58'
 ADMIN_CHAT_ID = -1003709372848
 
 # 📢 চ্যানেল ১
